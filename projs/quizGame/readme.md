@@ -1,4 +1,6 @@
-#Exercise#
+# Exercise #
+
+Taken from https://courses.calhoun.io/
 
 ## Goal ##
 
